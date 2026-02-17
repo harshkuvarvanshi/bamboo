@@ -1,1 +1,1 @@
-bucket_name = "harsh-bamboo-terraform-demo-122299"
+bucket_name = "harsh-bamboo-terraform-demo-2511"
