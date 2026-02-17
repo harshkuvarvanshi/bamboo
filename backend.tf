@@ -1,7 +1,7 @@
 terraform {
   backend "s3" {
-    bucket = "harsh-bamboo-terraform-demo-2511"
-    key    = "terraform/state.tfstate"
+    bucket = "harsh-terraform-state-2511"
+    key    = "dev/terraform.tfstate"
     region = "ap-south-1"
   }
 }
